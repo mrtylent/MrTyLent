@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" style="max-width: 100%; height: auto; max-height: 25px; display: inline-block;" data-target="animated-image.originalImage">
+## Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" style="max-width: 100%; height: auto; max-height: 25px; display: inline-block;" data-target="animated-image.originalImage">
 
 [![materhead](https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/api.gif)](https://github.com/TyLent/)
 
